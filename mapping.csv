@@ -1,0 +1,6 @@
+ModbusAddress,DNP3Index,DataType
+40001,0,AnalogInput
+40002,1,AnalogInput
+40003,2,AnalogInput
+00001,3,BinaryInput
+40004,4,AnalogOutput
